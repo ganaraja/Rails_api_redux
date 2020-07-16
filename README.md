@@ -1,0 +1,3 @@
+- This Repository contains
+  - Front end code - React - Redux Saga
+  - Backend code  - Uses Rails to run the backend apis
