@@ -14,12 +14,13 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+  - Used Postgres Database
 
 * Database initialization
 
-  rails db:create
-  rails db:migrate
-  rake db:seed  - gets the file from
+  - rails db:create
+  - rails db:migrate
+  - rake db:seed  - gets the file from
     https://github.com/dwyl/english-words/blob/master/words_alpha.txt
 
 * How to run the test suite
